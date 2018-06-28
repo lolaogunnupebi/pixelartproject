@@ -1,2 +1,4 @@
-# pixelartproject
-This is my final project for the Google Udacity Scholarship (ALC 3.0) and part of the #7DaysChallenge from Andela.
+Hello, I'm a beginner developer and my name is Lola
+
+This project was borne out of my online course through the Google Udacity Scholarship and
+I would welcome your criticisms. 
